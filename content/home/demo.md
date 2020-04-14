@@ -8,6 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
+
 title = "Hi, I'm Alexandre!"
 subtitle = ""
 
@@ -50,13 +51,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to this test site.
+Welcome! To learn more about how this website was built, see [this post]({{< ref "/post/aboutsite.md" >}}).
 
 
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
 
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-**To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}}
