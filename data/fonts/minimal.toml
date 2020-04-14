@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "Overpass"
+
+# Overpass
+# Rufina
+# Judson
+
+# Font families
+heading_font = "Overpass"
+body_font = "Overpass"
+nav_font = "Overpass"
+mono_font = "Overpass"
